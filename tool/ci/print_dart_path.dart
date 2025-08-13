@@ -1,5 +1,5 @@
 import 'dart:io';
 
 void main() {
-  print(Platform.executable);
+  print(Platform.resolvedExecutable);
 }
