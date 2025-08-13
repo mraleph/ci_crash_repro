@@ -9,7 +9,7 @@ which dart
 dart --version
 
 
-for i in {1..10}
+for i in {1..200}
 do
   rm -rf .dart_tool
   dart pub get
